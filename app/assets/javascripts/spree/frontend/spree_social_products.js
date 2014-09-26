@@ -1,1 +1,1 @@
-//= require spree/frontend
+//= require store/spree_frontend
